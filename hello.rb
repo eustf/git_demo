@@ -1,1 +1,1 @@
-puts "bonjour"
+puts "saluton"
