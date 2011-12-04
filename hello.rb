@@ -1,1 +1,1 @@
-puts "best boss"
+puts "best app"
