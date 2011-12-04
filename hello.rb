@@ -1,1 +1,1 @@
-puts "saluton"
+puts "saluton master"
