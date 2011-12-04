@@ -1,1 +1,1 @@
-puts "saluton master"
+puts "hello"
